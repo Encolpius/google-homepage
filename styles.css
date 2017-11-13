@@ -107,6 +107,8 @@ form {
   display: block;
   margin: auto;
   padding-bottom: 25px;
+  height: 92px;
+  width: 272px;
 }
 
 .app {
